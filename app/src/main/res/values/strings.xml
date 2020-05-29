@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">appSeviciosFireBase</string>
+    <string name="prefsFile">com.example.appseviciosfirebase.PREFERENCES_FILE_KEY</string>
+
+</resources>
